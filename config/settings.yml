@@ -1,0 +1,81 @@
+questions:
+  - type: TF
+    text: TF text 01
+  - type: GM
+    text: GM text 01
+  - type: AU
+    text: AU text 01
+  - type: SE
+    text: SE text 01
+  - type: EC
+    text: EC text 01
+  - type: SV
+    text: SV text 01
+  - type: CH
+    text: CH text 01
+  - type: LS
+    text: LS text 01
+  - type: TF
+    text: TF text 02
+  - type: GM
+    text: GM text 02
+  - type: AU
+    text: AU text 02
+  - type: SE
+    text: SE text 02
+  - type: EC
+    text: EC text 02
+  - type: SV
+    text: SV text 02
+  - type: CH
+    text: CH text 02
+  - type: LS
+    text: LS text 02
+  - type: TF
+    text: TF text 03
+  - type: GM
+    text: GM text 03
+  - type: AU
+    text: AU text 03
+  - type: SE
+    text: SE text 03
+  - type: EC
+    text: EC text 03
+  - type: SV
+    text: SV text 03
+  - type: CH
+    text: CH text 03
+  - type: LS
+    text: LS text 03
+  - type: TF
+    text: TF text 04
+  - type: GM
+    text: GM text 04
+  - type: AU
+    text: AU text 04
+  - type: SE
+    text: SE text 04
+  - type: EC
+    text: EC text 04
+  - type: SV
+    text: SV text 04
+  - type: CH
+    text: CH text 04
+  - type: LS
+    text: LS text 04
+  - type: TF
+    text: TF text 05
+  - type: GM
+    text: GM text 05
+  - type: AU
+    text: AU text 05
+  - type: SE
+    text: SE text 05
+  - type: EC
+    text: EC text 05
+  - type: SV
+    text: SV text 05
+  - type: CH
+    text: CH text 05
+  - type: LS
+    text: LS text 05
