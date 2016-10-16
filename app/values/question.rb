@@ -1,7 +1,11 @@
 class Question
-  attr_accessor :text, :answer
+  attr_accessor :type, :text, :answer
 
   def initialize(type, text, answer=nil)
-    @type, @text, @answers = type, text, answer
+    @type, @text, @answer = type, text, answer
+  end
+
+  def pick
+    @andwer += 4
   end
 end
